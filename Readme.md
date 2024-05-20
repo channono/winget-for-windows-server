@@ -15,10 +15,15 @@ Run powershell as an administrator
 
    Waiting for a long time.......
    automate download package of needed。
+	
       1. microsoft.ui.xaml.2.8.6
+		
       2. Microsoft.VCLibs.x64.14.00.Desktop.appx
+		
       3. 64b03c63cd5d4be8a28e8a271ff853cc_License1.xml
+		
       4. Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle
+		
    
    all finished .
 
