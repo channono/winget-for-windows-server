@@ -10,6 +10,7 @@ I put the required Powershell script in install.ps1, and execute it in Powershel
 step:
 
 Run powershell as an administrator
+
    .\install.ps1
 
    Waiting for a long time.......
