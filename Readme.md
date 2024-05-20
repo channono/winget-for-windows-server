@@ -7,3 +7,15 @@ The files you need to download are listed below, you can download them to instal
 
 I put the required Powershell script in install.ps1, and execute it in Powershell.
 
+step:
+
+Run powershell as an administrator
+   .\install.ps1
+
+   Waiting for a long time.......
+
+   all finished .
+
+  Try type ： 
+  winget 
+  
